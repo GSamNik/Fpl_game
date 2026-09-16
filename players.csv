@@ -1,0 +1,36 @@
+id,name,price,team,position,next_fixture,next_fixture_difficulty,xg,total_points
+1,Alisson,5.5,Liverpool,gk,Arsenal,4,0.05,150
+2,Raya,5.0,Arsenal,gk,Liverpool,4,0.02,145
+3,Pickford,5.0,Everton,gk,Chelsea,3,0.03,130
+4,Flekken,4.5,Brentford,gk,Fulham,3,0.02,115
+5,Areola,4.5,West Ham,gk,Brighton,3,0.01,105
+6,Alexander-Arnold,7.0,Liverpool,def,Arsenal,4,0.20,170
+7,Saliba,6.0,Arsenal,def,Liverpool,4,0.08,145
+8,Gabriel,6.0,Arsenal,def,Liverpool,4,0.12,155
+9,Van Dijk,6.0,Liverpool,def,Arsenal,4,0.10,150
+10,Gvardiol,5.5,Man City,def,Everton,2,0.15,140
+11,White,5.5,Arsenal,def,Liverpool,4,0.08,125
+12,Trippier,5.0,Newcastle,def,Wolves,2,0.10,120
+13,Pau Torres,4.5,Aston Villa,def,Bournemouth,2,0.06,110
+14,Branthwaite,4.5,Everton,def,Chelsea,3,0.04,105
+15,Dunk,4.5,Brighton,def,West Ham,3,0.05,108
+16,Mings,4.5,Aston Villa,def,Bournemouth,2,0.04,100
+17,Salah,13.0,Liverpool,mid,Arsenal,4,0.70,250
+18,Saka,10.0,Arsenal,mid,Liverpool,4,0.55,220
+19,Son,9.5,Tottenham,mid,Crystal Palace,2,0.50,205
+20,Foden,9.0,Man City,mid,Everton,2,0.48,195
+21,Palmer,10.5,Chelsea,mid,Everton,2,0.60,230
+22,Martinelli,7.0,Arsenal,mid,Liverpool,4,0.35,165
+23,Luis Diaz,7.5,Liverpool,mid,Arsenal,4,0.40,175
+24,Gordon,7.0,Newcastle,mid,Wolves,2,0.35,160
+25,Bowen,7.0,West Ham,mid,Brighton,3,0.32,155
+26,Eze,6.5,Crystal Palace,mid,Tottenham,3,0.30,145
+27,Gibbs-White,6.0,Nottingham Forest,mid,Fulham,3,0.25,135
+28,Rogers,5.5,Aston Villa,mid,Bournemouth,2,0.22,120
+29,Haaland,14.0,Man City,fwd,Everton,2,0.90,260
+30,Isak,8.5,Newcastle,fwd,Wolves,2,0.65,200
+31,Watkins,9.0,Aston Villa,fwd,Bournemouth,2,0.60,195
+32,Solanke,7.0,Tottenham,fwd,Crystal Palace,2,0.50,170
+33,Darwin Nunez,7.5,Liverpool,fwd,Arsenal,4,0.55,165
+34,Jackson,7.0,Chelsea,fwd,Everton,2,0.48,160
+35,Wissa,6.0,Brentford,fwd,Fulham,3,0.40,145
